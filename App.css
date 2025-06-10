@@ -1,0 +1,28 @@
+.para {
+  font-size: 18px; /* Sets the font size */
+  color: #333; /* Dark gray color */
+  background-color: #f9f9f9; /* Light background color */
+  padding: 10px; /* Adds space inside the paragraph */
+  border-left: 4px solid #4caf50; /* Stylish left border */
+  border-radius: 8px; /* Soft rounded corners */
+  line-height: 1.6; /* Adjust line spacing for better readability */
+}
+.picture {
+  width: 200px;
+  height: 200px;
+  object-fit: cover; /* Ensures the image fills the dimensions without distortion */
+  border-radius: 10px; /* Optional: adds rounded corners */
+  border: 2px solid #ddd; /* Optional: adds a subtle border */
+}
+.formSection{
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.section1{
+  height : 2rem;
+  width: 15rem;
+
+}
